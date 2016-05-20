@@ -1,0 +1,17 @@
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\DataBaseMySQL\DataBaseMySQL\bin\Debug\DataBaseMySQL.exe.config
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\DataBaseMySQL\DataBaseMySQL\bin\Debug\DataBaseMySQL.exe
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\DataBaseMySQL\DataBaseMySQL\bin\Debug\DataBaseMySQL.pdb
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\DataBaseMySQL\DataBaseMySQL\bin\Debug\EntityFramework.dll
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\DataBaseMySQL\DataBaseMySQL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\DataBaseMySQL\DataBaseMySQL\bin\Debug\MySql.Data.dll
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\DataBaseMySQL\DataBaseMySQL\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\DataBaseMySQL\DataBaseMySQL\bin\Debug\MySql.Web.dll
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\DataBaseMySQL\DataBaseMySQL\bin\Debug\EntityFramework.xml
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\DataBaseMySQL\DataBaseMySQL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\DataBaseMySQL\DataBaseMySQL\obj\Debug\DataBaseMySQL.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\DataBaseMySQL\DataBaseMySQL\obj\Debug\DataBaseMySQL.Form1.resources
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\DataBaseMySQL\DataBaseMySQL\obj\Debug\DataBaseMySQL.Properties.Resources.resources
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\DataBaseMySQL\DataBaseMySQL\obj\Debug\DataBaseMySQL.csproj.GenerateResource.Cache
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\DataBaseMySQL\DataBaseMySQL\obj\Debug\DataBaseMySQL.exe
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\DataBaseMySQL\DataBaseMySQL\obj\Debug\DataBaseMySQL.pdb
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\DataBaseMySQL\DataBaseMySQL\bin\Debug\MySqlBackup.dll
